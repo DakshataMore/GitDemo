@@ -6,8 +6,12 @@ public class A {
 	int b=20;
 
  int c=40;
-	public static void main(String[] args) {
-System.out.println("hello");
+	public static void main(String[] args) 
+	{
+		
+           System.out.println("hello");
+
+           System.out.println("This is Demo Project of Git");
 	}
 
 }
