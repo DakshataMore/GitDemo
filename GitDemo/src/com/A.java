@@ -12,6 +12,9 @@ public class A {
            System.out.println("hello");
 
            System.out.println("This is Demo Project of Git");
+
+	   System.out.println("Add  in git and pull to eclipse");
+		
 	}
 
 }
